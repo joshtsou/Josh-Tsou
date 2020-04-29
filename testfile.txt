@@ -2,3 +2,9 @@ test_master
 test_master_2
 
 test_branch_1
+
+hello~
+hello2~
+hello3~hello~hello~
+
+merge together
